@@ -1,11 +1,12 @@
+# Portfolio Website
 
-  # Personal Portfolio Website UI
+A modern personal portfolio showcasing my projects, skills, and academic journey.
 
-  This is a code bundle for Personal Portfolio Website UI. The original project is available at https://www.figma.com/design/cHh915JPfRwwrA368AKA2D/Personal-Portfolio-Website-UI.
+🔗 Live: https://surly-tree-23929604.figma.site/
 
-  ## Running the code
+Includes:
+- Project showcase (ML & data analysis)
+- Skills & education
+- Contact links
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+Built using Figma and deployed as a responsive web portfolio.
